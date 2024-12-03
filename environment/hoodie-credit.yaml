@@ -1,5 +1,6 @@
 name: hoodie-credit
 channels:
   - conda-forge
-dependencies:
-  - _libgcc_mutex=0.1-conda_forge 
+pip:
+    - pandas==1.5.1
+    - matplotlib==3.6.2

@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -m
+cd
 cd /Users/jaehyung.lim/Documents/GitHub
 
 rm aa_template -rf

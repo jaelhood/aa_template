@@ -2,4 +2,4 @@ name: hoodie-credit
 channels:
   - conda-forge
 dependencies:
-  - libgcc_mutex=0.1-conda_forge 
+  - _libgcc_mutex=0.1-conda_forge 

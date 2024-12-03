@@ -2,5 +2,13 @@ name: hoodie-credit
 channels:
   - conda-forge
 pip:
+    - clickhouse_driver==0.2.9
+    - psycopg2==2.9.10
+    - sqlalchemy==2.0.34
+    - numpy==1.23.5
     - pandas==1.5.1
     - matplotlib==3.6.2
+    - XlsxWriter==3.0.9
+    - py4j==0.10.9.7
+    - spark==0.2.1
+    - datetime==5.5

@@ -23,14 +23,6 @@ Simple overview of use/purpose.
 ```
 * Create a notebook and start your analysis on the hoodie-credit kernel
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
 ## Help
 
 Any advise for common problems or issues.

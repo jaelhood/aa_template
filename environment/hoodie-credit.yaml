@@ -4,7 +4,7 @@ channels:
 dependencies: 
     - pip:
         - clickhouse_driver
-        - psycopg2
+        - psycopg2-binary
         - sqlalchemy
         - pandas
         - matplotlib

@@ -11,8 +11,13 @@ Simple overview of use/purpose.
 
 ### Getting started
 
-* Use this template repo and create
-* Any modifications needed to be made to files/folders
+* Use this template repo and fill out the initial README.md
+* Go to Anaconda and launch Jupyter Labs
+* Open up Terminal and run
+   git clone linktorepo
+* Run
+   sh
+* Create a notebook and start your analysis on the hoodie-credit kernel
 
 ### Executing program
 

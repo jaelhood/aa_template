@@ -9,14 +9,9 @@ Simple overview of use/purpose.
 * [Anaconda](https://www.anaconda.com/download). You can click "Skip Registration" to avoid giving email.
 * Access to [Thrive Financial organization](https://github.com/ThriveFinancial) in Github
 
-### Dependencies
+### Getting started
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
+* Use this template repo and create
 * Any modifications needed to be made to files/folders
 
 ### Executing program

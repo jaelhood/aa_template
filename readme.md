@@ -5,7 +5,9 @@ Simple overview of use/purpose.
 ## Getting Started
 
 ### Installation Requisities
-
+* [GitHub Desktop](https://desktop.github.com/download/)
+* [Anaconda[(https://www.anaconda.com/download). You can click "Skip Registration" to avoid giving email.
+* Access to [Thrive Financial organization](https://github.com/ThriveFinancial) in Github
 
 ### Dependencies
 

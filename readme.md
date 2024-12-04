@@ -14,11 +14,13 @@ Simple overview of use/purpose.
 * Use this template repo and fill out the initial README.md
 * Go to Anaconda and launch Jupyter Labs
 * Open up Terminal and run
-
+```
    git clone linktorepo
+```
 * Run
-
+```
    sh
+```
 * Create a notebook and start your analysis on the hoodie-credit kernel
 
 ### Executing program
